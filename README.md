@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kawaledeep9@gmail.com**
 
-<a href="https://ibb.co/zRN2ZTb"><img align="right" width="60%"src="https://i.ibb.co/bB7vXML/undraw-programming-2svr.png" alt="undraw-programming-2svr" border="0"></a>
+<a href="https://ibb.co/zRN2ZTb"><img align="right" width="60%" src="https://i.ibb.co/bB7vXML/undraw-programming-2svr.png" alt="undraw-programming-2svr" border="0"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
