@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **C++, HTML & CSS**
 
 - 📫 How to reach me **kawaledeep9@gmail.com**
-
-<a href="https://ibb.co/zRN2ZTb"><img align="right" width="60%" src="https://i.ibb.co/bB7vXML/undraw-programming-2svr.png" alt="undraw-programming-2svr" border="0"></a>
+<img src="https://i.ibb.co/QXVRNSZ/Deep-Vector-Image.png" align="right" width="60%" alt="Deep-Vector-Image" border="0">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
