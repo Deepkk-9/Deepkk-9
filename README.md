@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deep Kawale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java, HTML, CSS & Javascript**
+- 🌱 I’m currently learning **MERN Stack and Android**
 
 - 📫 How to reach me **kawaledeep9@gmail.com**
 <img src="https://i.ibb.co/QXVRNSZ/Deep-Vector-Image.png" align="right" width="60%" alt="Deep-Vector-Image" border="0">
